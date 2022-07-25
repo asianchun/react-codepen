@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app works, but it has a weird error I dont know how to fix
 
 ## Available Scripts
 
