@@ -13,7 +13,7 @@ Welcome to the CodePen Clone project! This project is a simplified recreation of
 
 ## Demo
 
-Check out the live demo of the CodePen [here](#).
+Check out the live demo of the CodePen [here](https://yellow-lake-6207.on.fleek.co/).
 
 ## Features
 
